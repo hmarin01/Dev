@@ -7,3 +7,4 @@ Version 3.0
 Version 4.0
 Version 5.0
 Version 6.0
+Version 7.0
